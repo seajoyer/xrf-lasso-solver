@@ -50,7 +50,7 @@
 
 **Целевая функция минимизации:**
 
-$$\min_{w} \left( \frac{1}{2N} ||Xw - y||_2^2 + \alpha ||w||_1 \right)$$
+$$\min_{w} \left( \frac{1}{2N} \Vert Xw - y\Vert_2^2 + \alpha \Vert w\Vert_1 \right)$$
 
 ### Оптимизация
 
